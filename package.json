@@ -1,0 +1,21 @@
+{
+  "name": "jack",
+  "displayName": "Jack",
+  "description": "A color theme which I think cool and easy to write codes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jack",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jack-color-theme.json"
+      }
+    ]
+  }
+}
