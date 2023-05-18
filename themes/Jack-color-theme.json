@@ -24,7 +24,7 @@
 		"toolbar.hoverBackground": "#cd8738",
 		"toolbar.hoverOutline": "#929292",
 		"toolbar.activeBackground": "#cd8738",
-		
+
 		//Activity Bar
 		"activityBar.background": "#130f0b",
 		"activityBar.dropBorder": "#e8840a",
@@ -63,6 +63,8 @@
 		"charts.purple": "#923bd5",
 		"charts.red": "#ee3b3b",
 		"charts.yellow": "#e7be04",
+
+		"titleBar.inactiveBackground": "#130f0b",
 		//"checkbox.background": "#3c3c3c",
 		//"checkbox.border": "#3c3c3c",
 		//"checkbox.foreground": "#f0f0f0",
@@ -586,7 +588,7 @@
 		//"textSeparator.foreground": "#ffffff2e",
 		//"titleBar.activeBackground": "#3c3c3c",
 		//"titleBar.activeForeground": "#cccccc",
-		//"titleBar.inactiveBackground": "#3c3c3c99",
+		
 		//"titleBar.inactiveForeground": "#cccccc99",
 		//"toolbar.activeBackground": "#63666750",
 		//"toolbar.hoverBackground": "#5a5d5e50",
